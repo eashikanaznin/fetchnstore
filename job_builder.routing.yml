@@ -1,0 +1,7 @@
+job_builder.settings_form:
+  path: '/admin/config/system/job-builder'
+  defaults:
+    _title: 'Import Opportunities'
+    _form: 'Drupal\job_builder\Form\SettingsForm'
+  requirements:
+    _permission: 'administer job_builder configuration'

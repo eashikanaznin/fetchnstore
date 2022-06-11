@@ -1,0 +1,6 @@
+name: job_builder
+type: module
+description: A custom module to import opportunity through cron.
+package: Demo for Agilecoop
+core: 8.x
+core_version_requirement: ^8 || ^9

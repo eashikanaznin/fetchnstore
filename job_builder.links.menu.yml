@@ -1,0 +1,6 @@
+job_builder.settings_form:
+  title: Import opportunity content
+  description: Configure job_builder.
+  parent: system.admin_config_system
+  route_name: job_builder.settings_form
+  weight: 10
